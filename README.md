@@ -15,7 +15,7 @@ local ClientEffectRemote = RemotesFolder:WaitForChild("ClientEffect")
 -- Coloque SEU ID aqui. (Para pegar seu ID, vá no seu perfil do Roblox e copie o número na URL)
 local Admins = {
     [3650838602] = true, -- Substitua pelo seu ID
-    [987654321] = true  -- ID de um amigo (opcional)
+    [4089643136] = true  -- ID de um amigo (opcional)
 }
 
 local function IsAdmin(player)
